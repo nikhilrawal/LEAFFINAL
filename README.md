@@ -28,7 +28,7 @@ The **Plant Health App** is a smart and user-friendly mobile application built u
 
 ## 🎥 Demo Video
 
-- [▶️ Watch Demo](#) *(Insert your YouTube or Google Drive video link here)*
+- [▶️ Watch Demo](#) *(https://vimeo.com/1091923224/bce553a500?share=copy)*
 
 ---
 
@@ -40,5 +40,4 @@ The **Plant Health App** is a smart and user-friendly mobile application built u
 - **Pub.dev Packages** (image_picker, camera, http, and more)
 - **Payment Gateway** (for subscription feature)
 
----
 
