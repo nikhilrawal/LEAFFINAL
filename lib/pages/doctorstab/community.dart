@@ -18,7 +18,7 @@ class _CommunityState extends State<Community> {
       qualification: "PhD in Plant Pathology",
       specialty: "Crop Diseases",
       experience: "12 years",
-      whatsapp: "+919876543210",
+      whatsapp: "+919817903532",
       image: "images/doctor1.jfif",
     ),
     Doctor(
