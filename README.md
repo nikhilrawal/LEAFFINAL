@@ -22,7 +22,7 @@ The **Plant Health App** is a smart and user-friendly mobile application built u
 
 ## 📦 Download
 
-- [📲 Download APK](https://drive.google.com/uc?export=download&id=1ExIRWuoobQDLOYckTJ1wLGi-tJ34rXFu)
+- [📲 Download APK](https://drive.google.com/uc?export=download&id=1ExIRWuoobQDLOYckTJ1wLGi-tJ34rXF)
 
 ---
 
